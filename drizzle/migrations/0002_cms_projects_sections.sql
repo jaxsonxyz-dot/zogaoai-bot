@@ -1,0 +1,1 @@
+ALTER TABLE public.cms_projects ADD COLUMN IF NOT EXISTS sections jsonb NOT NULL DEFAULT '[]'::jsonb;

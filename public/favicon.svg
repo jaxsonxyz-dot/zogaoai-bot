@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -26.5 628 628" fill="none">
+  <defs>
+    <linearGradient id="zg-ring-grad" x1="5" y1="287" x2="623" y2="287" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#44B4E6" />
+      <stop offset="50%" stop-color="#6289C6" />
+      <stop offset="100%" stop-color="#735EA8" />
+    </linearGradient>
+    <linearGradient id="zg-tl-grad" x1="85" y1="206" x2="251" y2="175" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F02B93" />
+      <stop offset="55%" stop-color="#A5519F" />
+      <stop offset="100%" stop-color="#805EA7" />
+    </linearGradient>
+    <linearGradient id="zg-br-grad" x1="259" y1="415" x2="424" y2="442" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#805EA7" />
+      <stop offset="45%" stop-color="#A5519F" />
+      <stop offset="100%" stop-color="#E63495" />
+    </linearGradient>
+    <linearGradient id="zg-z-grad" x1="365" y1="148" x2="135" y2="442" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#44B4E6" />
+      <stop offset="48%" stop-color="#5E91CC" />
+      <stop offset="100%" stop-color="#745CA8" />
+    </linearGradient>
+    <linearGradient id="zg-v-grad" x1="365" y1="195" x2="515" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6D70B3" />
+      <stop offset="45%" stop-color="#5B95CF" />
+      <stop offset="100%" stop-color="#44B4E6" />
+    </linearGradient>
+  </defs>
+  <path d="M308.5 5.0L362.0 4.5L363.0 5.5L375.0 5.5L410.0 10.5L432.0 15.5L458.0 23.5L480.0 32.5L503.0 44.5L527.0 60.5L555.0 85.5L572.5 106.0L589.5 132.0L600.5 154.0L606.5 169.0L615.5 199.0L620.5 225.0L623.5 255.0L623.5 291.0L620.5 317.0L616.5 337.0L606.5 369.0L598.5 388.0L581.5 419.0L565.5 442.0L550.5 460.0L527.0 483.5L497.0 507.5L472.0 523.5L441.0 539.5L419.0 548.5L380.0 560.5L350.0 566.5L319.0 569.5L310.0 570.5L259.0 569.5L226.0 565.5L194.0 558.5L166.0 549.5L149.0 542.5L124.0 529.5L99.0 512.5L87.5 503.0L65.5 481.0L56.5 470.0L41.5 448.0L27.5 421.0L16.5 391.0L11.5 372.0L7.5 351.0L4.5 323.0L5.5 270.0L10.5 241.0L18.5 213.0L29.5 186.0L46.5 155.0L63.5 131.0L79.5 112.0L107.0 85.5L130.0 67.5L160.0 48.5L190.0 33.5L231.0 18.5L254.0 12.5L281.0 7.5Z M303.0 50.5L256.0 55.5L234.0 60.5L209.0 68.5L168.0 87.5L143.0 103.5L124.0 118.5L98.5 144.0L89.5 155.0L75.5 175.0L61.5 201.0L50.5 230.0L44.5 255.0L41.5 280.0L41.5 307.0L44.5 332.0L50.5 357.0L58.5 379.0L68.5 400.0L83.5 424.0L98.5 443.0L129.0 472.5L149.0 487.5L165.0 497.5L186.0 508.5L213.0 519.5L236.0 526.5L259.0 531.5L295.0 535.5L318.0 535.5L339.0 534.5L361.0 531.5L388.0 525.5L413.0 517.5L430.0 510.5L462.0 493.5L480.0 481.5L502.0 463.5L518.5 447.0L536.5 425.0L549.5 405.0L562.5 379.0L570.5 357.0L576.5 332.0L579.5 309.0L579.5 277.0L576.5 253.0L571.5 232.0L563.5 209.0L552.5 186.0L539.5 165.0L527.5 149.0L493.0 114.5L476.0 101.5L454.0 87.5L413.0 68.5L388.0 60.5L354.0 53.5L336.0 51.5L320.0 51.5L319.0 50.5Z" fill="url(#zg-ring-grad)" fill-rule="evenodd" />
+  <path d="M197 148L251 206L85 206Z" fill="url(#zg-tl-grad)" />
+  <path d="M317 384L424 442L259 442Z" fill="url(#zg-br-grad)" />
+  <path d="M211 148L409 148L214 383L302 383L243 442L103 442L79 410L268 206Z" fill="url(#zg-z-grad)" />
+  <path d="M409 148L437 356L495 122A256 256 0 0 1 554 198L438 424L322 259Z" fill="url(#zg-v-grad)" />
+</svg>

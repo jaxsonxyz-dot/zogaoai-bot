@@ -1,0 +1,1 @@
+CREATE POLICY "Admins read portfolio images" ON storage.objects FOR SELECT TO authenticated USING (bucket_id = 'portfolio-images' AND public.has_role(auth.uid(), 'admin'));
